@@ -1,0 +1,6 @@
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll.config
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.pdb
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.pdb
